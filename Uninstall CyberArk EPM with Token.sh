@@ -1,0 +1,2 @@
+#! /bin/sh
+/Applications/CyberArk\ EPM.app/Contents/Helpers/CyberArkEPMUninstall -token 67DC481C76B82B6A50A240E547CB0E94E43CD1967374EA6B5EB4F7A0AB0EBBC7
