@@ -1,0 +1,1 @@
+sudo jamf setComputerName -useSerialNumber -prefix 'SO5-'
