@@ -1,0 +1,1 @@
+sudo sh /usr/local/island/island-service/current/uninstaller/uninstall.sh

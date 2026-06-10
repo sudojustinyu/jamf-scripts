@@ -1,0 +1,3 @@
+sudo /Applications/TeamViewerHost.app/Contents/Helpers/TeamViewer_Assignment -api-token 14557946-hhPEzJdsid8wlKwe1ehh -group '225 Liberty' -grant-easy-access 
+
+sudo /Applications/TeamViewerHost.app/Contents/Helpers/TeamViewer_Assignment -assignment_id 0001CoABChBt37owV30R7JeKokGR9BAIEigIACAAAgAJACyZsHtvYaN7f6tFasjVyZZNVDMD9F6UlGEr9dDOmxOUGkCKdy2cPyXV3XSrUM_TuCmDZC2A_3XZvn6OiGns2EFi_zuri59MaaA_aa2UlaAkPFi2Sg1HZH8aA7xqTrt0_F9-IAEQ1Z6msAo=
